@@ -17,3 +17,4 @@ Fans can view the stats of past races, schedule of upcoming races and venues.
 
 ## E/R diagram
 Depiction of how our database schema looks like:
+![F1 race ER diagram](/uploads/472fc65e1a1bc11b355cc03d6c339fd5/logo_.svg)
