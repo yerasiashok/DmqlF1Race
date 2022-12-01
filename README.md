@@ -1,7 +1,7 @@
 # F1-Racing dataset Analysis
 
 ## CSE 560 DMQL(Data Model Query Language):
-![](erDiagram.png?raw=true "Title")
+![](erDiagram.jpg?raw=true "Title")
 
 ---
 
