@@ -21,7 +21,6 @@ who can manage the players under their brand. When a brand owner wants to get th
 ###### F1 fans:
 Fans can view the stats of past races, schedule of upcoming races and venues.
 
-<<<<<<< HEAD
 ---
 
 ## Instructions for code-setup:
